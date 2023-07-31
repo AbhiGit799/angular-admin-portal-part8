@@ -10,6 +10,9 @@ This is 8th code push for the Admin Portal, for building this portal I am using 
 
 <b>Highlights of 8th Push</b> <br/>
 
+<b>Build Creation Issue, not created index.html </b> <br>
+https://stackoverflow.com/questions/53995948/warning-in-budgets-maximum-exceeded-for-initial </br>
+
 Changes done in navigate in auth.service.ts <br/>
 
 Code added for header, footer, sidebar <br/>
